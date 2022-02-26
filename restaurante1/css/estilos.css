@@ -1,0 +1,58 @@
+.logo{
+    width: 200px;
+}
+.text-white{
+    font-size: 20px;
+    font-weight: bold;
+  color: rgb(255, 255, 255) !important;
+    
+}
+.text-black{
+    font-size: 20px;
+    font-weight: bold;
+  color: rgb(0, 0, 0) !important;
+}
+.menu{
+    z-index: 10;
+}
+.banner{
+    background-image: url("../imagenes/dosbros-tacos-home-banner.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.fondo{
+    height: 100vh;
+    margin-left: 150px;
+}
+.fondo h1{
+    font-size: 50px;
+}
+.fondo h3{
+    font-size:  100px;
+}
+h3{
+    font-family: 'staatliches';
+}
+.sesion-2{
+    background-image: url("../imagenes/imagen-fondo-diagonal-gris-sobres.png");
+
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
+.sesion-3{
+    background-image: url("../imagenes/tacos-mexicanos-ternera-verduras-salsa_79782-63.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 100%;
+    background-attachment: fixed;
+
+}
+.descripcion h1,
+.descripcion h3{
+    font-size: 50px;
+    font-weight: 300;
+}
+.descripcion h3{
+    font: size 30px;
+}
